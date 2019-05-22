@@ -1,0 +1,5 @@
+ground 2  #888888 
+trees 5 #008800 
+buildings 6 #888800 
+water 9 #0000FF 
+clutter 65 #000000 
